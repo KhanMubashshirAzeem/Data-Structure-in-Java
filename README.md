@@ -7,6 +7,6 @@ We have solved the problems of the following topics <Br>
 4. Operators  <Br>
 5. Strings  <Br>
 6. Arrays      <Br>
-  i. Array  <Br>
-  ii. Multidimensional Array      (current problem) <Br>
+  <p> i. Array  </p><Br>
+  \t ii. Multidimensional Array      (current problem) <Br>
 7. 
