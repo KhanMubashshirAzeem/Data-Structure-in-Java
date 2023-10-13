@@ -1,3 +1,5 @@
+package Arrays.Array;
+
 public class SwapTwoElement {
 
     public static void main(String[] args) {

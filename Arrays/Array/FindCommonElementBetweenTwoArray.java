@@ -1,3 +1,4 @@
+package Arrays.Array;
 
 public class FindCommonElementBetweenTwoArray {
     public static void main(String[] args) {

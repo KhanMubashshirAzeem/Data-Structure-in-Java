@@ -1,4 +1,4 @@
-package Array.MultiDimentional;
+package Arrays.MultiDimentional;
 
 public class Matrix {
     public static void main(String[] args) {

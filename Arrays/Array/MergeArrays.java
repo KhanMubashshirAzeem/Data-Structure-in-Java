@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package Arrays.Array;
 
 public class MergeArrays {
     public static void main(String[] args) {

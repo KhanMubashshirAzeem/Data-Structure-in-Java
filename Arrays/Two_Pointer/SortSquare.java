@@ -1,4 +1,4 @@
-package Array.Two_Pointer;
+package Arrays.Two_Pointer;
 
 import java.util.Scanner;
 

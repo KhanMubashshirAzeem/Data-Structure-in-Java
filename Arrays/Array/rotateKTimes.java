@@ -1,9 +1,5 @@
-// Java Implementation of Right Rotation
+package Arrays.Array;// Java Implementation of Right Rotation
 // of an Array K number of times
-
-import java.util.*;
-import java.lang.*;
-import java.io.*;
 
 class rotateKTimes {
     // Function to rightRotate array

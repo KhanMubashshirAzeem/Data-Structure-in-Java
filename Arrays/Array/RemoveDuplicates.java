@@ -1,3 +1,5 @@
+package Arrays.Array;
+
 import java.util.Scanner;
 
 public class RemoveDuplicates {

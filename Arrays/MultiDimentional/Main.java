@@ -1,4 +1,4 @@
-package Array.MultiDimentional;
+package Arrays.MultiDimentional;
 
 public class Main {
     public static void main(String[] args) {
