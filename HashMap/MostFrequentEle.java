@@ -33,6 +33,7 @@ public class MostFrequentEle {
         }
 
         System.out.printf("%d has max frequency and it occurs %d times ",ansKey,maxFreq);
+
     }
 
 

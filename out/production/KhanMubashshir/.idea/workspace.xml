@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c1ec8da-5213-4b64-98b9-c85ac012cda2" name="Changes" comment="New Package for basic Java">
+      <change afterPath="$PROJECT_DIR$/HashMap/MostFrequentEle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMap/HashMapClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/HashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/ArrayCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/CheckTwoArrayAreEqualOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/FindCommonElementBetweenTwoArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/FindElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/FindMaxElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/MajorityEle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/MergeArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/RemoveAllOccurrences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/SmallestNumWhoseProductOfDigit1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/SwapTwoElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/rotate90D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Array/rotateKTimes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/MultiDimentional/Initialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/MultiDimentional/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/MultiDimentional/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/MultiDimentional/Matrix2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/MultiDimentional/RotateMatrix90D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/MultiDimentional/TransposeMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/MultiDimentional/pascalsTri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Two_Pointer/EvenOddArrangement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Two_Pointer/Sort0sAnd1s.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Two_Pointer/SortAscendingOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Two_Pointer/SortDescendingOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Arrays/Two_Pointer/SortSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/BasicJava/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/BinaryTree/PreOrder$BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/BinaryTree/PreOrder$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/BinaryTree/PreOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/HashMap/HashMapClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/KhanMubashshir.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/Circular/CircularLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/Doubly/BasicDLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/Doubly/BasicDLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/Doubly/DoublyLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/Doubly/DoublyLL$doublyLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/Doubly/DoublyLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/Doubly/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/BasicLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/BasicLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/CompareLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/CompareLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/CycleLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/CycleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/DeleteMiddleEle$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/DeleteMiddleEle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/FindMidEle$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/FindMidEle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/IntersectionOfTwoLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/LinkedList$linkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/NthNodeFromEnd$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/NthNodeFromEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/PracticeLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/PracticeLL$linkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/PracticeLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/RemoveDuplicateElement$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/LinkedList/linkedLIst/RemoveDuplicateElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/Abstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/Inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/Interfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/MethodOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/MethodOverriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/animal1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/animal3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/constructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/deer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/mammal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/mustang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/OPPs/students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Queue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Queue/QueueArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Queue/QueueArr2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Queue/QueueLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Queue/QueueLL$Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Queue/QueueLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Recursion/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Recursion/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Recursion/GreatestCommonDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Recursion/LinearSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Recursion/ReverseArrray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Recursion/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Recursion/printNaturalNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/SearchingAlgo/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/SearchingAlgo/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/SearchingAlgo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/SearchingAlgo/TernaryAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Sorting/CountingSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Sorting/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Sorting/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Sorting/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Sorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Stack/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Stack/StackArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Stack/StackLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Stack/StackLL$stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KhanMubashshir/Stack/StackLL.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2VBUpyjtuVVbmYNABV8Vxj2MRcE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/KhanMubashshir/Java/Arrays/Array&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\KhanMubashshir\Java\Arrays\Array" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c1ec8da-5213-4b64-98b9-c85ac012cda2" name="Changes" comment="" />
+      <created>1694309153898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694309153898</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Small change in folder.">
+      <created>1694309532419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694309532419</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1694309618829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694309618829</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Small change in folder." />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="New problem solved in Array 1.rotate90D 2.MajorityEle 3.ProductOfDigits." />
+    <MESSAGE value="New Commit" />
+    <MESSAGE value="New Package" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Package" />
+  </component>
+</project>
