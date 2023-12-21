@@ -1,3 +1,12 @@
 # Java_Programming_And_DSA
-I started solving the DSA problems on **GeeksforGeeks** below is the link to my **GeeksforGeeks** profile.
-https://auth.geeksforgeeks.org/user/khanmubaseu8q/practice
+
+<h2>Solved Topics and problem</h2>
+
+<h3>Recursion</h3>
+
+1. Factorial
+2. Fibonacci
+3. Greatest Common Divisor
+4. LinearSum
+5. Reverse Array
+6. Sum of Digits.
