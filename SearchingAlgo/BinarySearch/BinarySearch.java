@@ -1,8 +1,8 @@
-package SearchingAlgo;
+package SearchingAlgo.BinarySearch;
 
 import java.util.Scanner;
 
-public class LinearSearch {
+public class BinarySearch {
 
     public static void display(int arr[], int n)
     {
@@ -13,37 +13,45 @@ public class LinearSearch {
         }
         System.out.println();
     }
-    public static void searchElement(int arr[], int n, int key)
-    {
-        for (int i=0; i<n; i++)
-        {
-            if (key == arr[i])
-            {
-                System.out.println(key+" is present at index "+(i+1));
+
+    public static void searchElement(int arr[], int n, int key) {
+        int low = 0;
+        int high = n - 1;
+
+        while (low <= high) {
+            int mid = (low + high) / 2;
+
+            if (arr[mid] == key) {
+                System.out.println(key + " is present at index " + (mid+1));
                 return;
-            }
-            else {
-                System.out.println(key+" is not present in Array");
-                return;
+            } else if (arr[mid] < key) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
         }
+
+        System.out.println(key + " is not present in the array.");
     }
 
+
     public static void main(String[] args) {
+
         System.out.println("Enter numbers of element you want in Array? : ");
         Scanner sc = new Scanner(System.in);
         int n=sc.nextInt();
         int arr[] = new int[n];
-        System.out.println("Enter "+n+" elements :");
+        System.out.print("Enter "+n+" elements :");
         for (int i=0; i<n; i++)
         {
             arr[i] = sc.nextInt();
         }
 
         display(arr , n );
-        System.out.print("Enter element which you want to search : ");
+
+        System.out.println("Enter the element you want to search");
         int key = sc.nextInt();
-        searchElement(arr, n , key);
+        searchElement(arr, n, key);
 
     }
 }
