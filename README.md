@@ -14,8 +14,9 @@
   <h3>MultiDimentional Array</h3>
 
   <h3>Binary Search</h3>
-  1. Binary Search Algorithm
-  2. Find the first and last position of the target.
-  3. 
+  
+1. Binary Search Algorithm
+2. Find the first and last position of the target.
+  
 
 
