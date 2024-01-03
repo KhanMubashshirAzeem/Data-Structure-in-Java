@@ -13,6 +13,8 @@
 
   <h3>MultiDimentional Array</h3>
 
+  <h3>Stack</h3>
+
   <h3>Binary Search</h3>
   
 1. Binary Search Algorithm
