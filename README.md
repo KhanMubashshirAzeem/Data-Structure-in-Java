@@ -11,6 +11,11 @@
 5. Reverse Array
 6. Sum of Digits.
 
+
+  <h3>Array</h3>
+
+  <h3>Two Pointer Array</h3>
+
   <h3>MultiDimentional Array</h3>
 
   <h3>Stack</h3>
