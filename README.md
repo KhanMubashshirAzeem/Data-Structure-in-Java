@@ -14,7 +14,7 @@
 ### Array
 
 1. Check Two Arrays Are Equal Or Not
-2. Find Common Element Between Two Arrays
+2. Find a Common Element Between Two Arrays
 3. Find Element
 4. Find Max Element
 
@@ -24,7 +24,17 @@
 
 ### Stack
 
-### Binary Search
+### Searching Algorithm
+  #### Linear Search
+  1. Linear Search
+  2. Linear Search
+  3. 
 
-1. Binary Search Algorithm
-2. Find the First and Last Position of the Target.
+
+  #### Binary Search
+  1. Binary Search Algorithm
+  2. Find the First and Last Position of the Target.
+
+### Sorting 
+
+### Stack
