@@ -1,4 +1,4 @@
-package SearchingAlgo.BinarySearch;
+package SearchingAlgo.LinearSearch;
 
 import java.util.Scanner;
 

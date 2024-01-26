@@ -2,7 +2,7 @@
 
 <h2>Solved Topics and problem</h2>
 
-<h3>Recursion</h3>
+  <h3>Recursion</h3>
 
 1. Factorial
 2. Fibonacci
@@ -10,3 +10,6 @@
 4. LinearSum
 5. Reverse Array
 6. Sum of Digits.
+
+  <h3>MultiDimentional Array</h3>
+
