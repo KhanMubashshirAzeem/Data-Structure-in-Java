@@ -1,8 +1,8 @@
-# Java_Programming_And_DSA
+# Java Programming And DSA
 
-<h2>Solved Topics and problem</h2>
+## Solved Topics and Problems
 
-  <h3>Recursion</h3>
+### Recursion
 
 1. Factorial
 2. Fibonacci
@@ -11,5 +11,20 @@
 5. Reverse Array
 6. Sum of Digits.
 
-  <h3>MultiDimentional Array</h3>
+### Array
 
+1. Check Two Arrays Are Equal Or Not
+2. Find Common Element Between Two Arrays
+3. Find Element
+4. Find Max Element
+
+### Two Pointer Array
+
+### Multi-Dimensional Array
+
+### Stack
+
+### Binary Search
+
+1. Binary Search Algorithm
+2. Find the First and Last Position of the Target.
