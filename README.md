@@ -47,5 +47,21 @@
 
 ### Sorting 
 
-### Linkedlist
+### LinkedList
 
+#### Circular LinkedList
+1. Circularll
+2. 
+
+#### Doubly LinkedList
+1. DoublyLL
+2. BasicDLL
+3. Main
+
+#### LinkedList
+1. CompareLL
+2. CircleLL
+3. DeleteMidEle
+4. RemoveDuplicateEle
+5. FindMiddleEle
+6. PracticeLL
