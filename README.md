@@ -21,16 +21,17 @@
 7. Constructors
 8. Person
 
-### Array
+### Arrays
 
+#### Array
 1. Check Two Arrays Are Equal Or Not
 2. Find a Common Element Between Two Arrays
 3. Find Element
 4. Find Max Element
 
-### Two Pointer Array
+#### Two Pointer Array
 
-### Multi-Dimensional Array
+#### Multi-Dimensional Array
 
 ### Stack
 
