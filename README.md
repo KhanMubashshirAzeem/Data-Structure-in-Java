@@ -1,4 +1,4 @@
-# Java Programming And DSA
+# Data Structure Using Java
 
 ## Solved Topics and Problems
 ### Basic Java
