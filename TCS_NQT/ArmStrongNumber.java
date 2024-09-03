@@ -1,4 +1,4 @@
-package BasicMaths;
+package TCS_NQT;
 
 import java.util.Scanner;
 

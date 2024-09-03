@@ -15,13 +15,19 @@
         eg : 894 % 10 = 4
     2.  num / 10 removes last digit
         eg : 894 / 10 = 89
-    If we learn this formula then we can solve the maths problems very easily. 
+    If we learn this formula then we can solve the maths problems very easily.
 
 1. Count digit
 2. reverse number
 3. palindrome
 4. Armstrong Number
 5. Print all divisors
+
+### NQT_TCS
+
+1. reverse number
+2. palindrome
+3. Armstrong Number
 
 ### Recursion
 
