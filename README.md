@@ -1,6 +1,11 @@
 # Data Structure Using Java
 
 ## Solved Topics and Problems
+    I encourage all beginners to focus on learning basic math. 
+    It helps a lot with solving pattern problems and 
+    improves problem-solving skills.
+
+    https://takeuforward.org/
 
 ### Basic Java
 
@@ -8,6 +13,7 @@
 
     Remember. 
     Outer loop prints the rows. 
+
 
 ### Basic maths problem for Data Structure
 
