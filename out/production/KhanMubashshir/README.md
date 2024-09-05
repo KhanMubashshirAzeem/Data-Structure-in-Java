@@ -29,7 +29,7 @@
 2. palindrome
 3. Armstrong Number
 
-### Recursion
+### _3_Basic_Recursion
 
 1. Factorial
 2. Fibonacci
