@@ -1,11 +1,11 @@
 # Data Structure Using Java
 
 ## Solved Topics and Problems
+
     I encourage all beginners to focus on learning basic math. 
     It helps a lot with solving pattern problems and 
     improves problem-solving skills.
-
-    https://takeuforward.org/
+- One of the best platform to learn DSA -> [A to Z Strivers](https://takeuforward.org/)
 
 ### Basic Java
 
