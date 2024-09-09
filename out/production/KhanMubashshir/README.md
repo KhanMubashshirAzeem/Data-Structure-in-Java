@@ -1,21 +1,21 @@
 # Data Structure Using Java
 
 ## Solved Topics and Problems
+
     I encourage all beginners to focus on learning basic math. 
     It helps a lot with solving pattern problems and 
     improves problem-solving skills.
 
-    https://takeuforward.org/
+- One of the best platform to learn DSA -> [A to Z Strivers](https://takeuforward.org/)
 
-### Basic Java
+### _0_Basic Java
 
-### Pattern Printing [ Solved more than 10 problems ]
+### _1_Patterns
 
     Remember. 
     Outer loop prints the rows. 
 
-
-### Basic maths problem for Data Structure
+### _2_BasicMaths
 
     1.  num % 10 gives last digit 
         eg : 894 % 10 = 4
@@ -29,13 +29,11 @@
 4. Armstrong Number
 5. Print all divisors
 
-### NQT_TCS
-
-1. reverse number
-2. palindrome
-3. Armstrong Number
-
 ### _3_Basic_Recursion
+
+    There is two types of Recursion
+        1. Parameterized Recursion.
+        2. Functional Recursion.
 
 1. Factorial
 2. Fibonacci
@@ -43,6 +41,15 @@
 4. LinearSum
 5. Reverse Array
 6. Sum of Digits.
+
+
+### NQT_TCS
+
+1. reverse number
+2. palindrome
+3. Armstrong Number
+
+
 
 ### Object-Oriented Programming & System
 

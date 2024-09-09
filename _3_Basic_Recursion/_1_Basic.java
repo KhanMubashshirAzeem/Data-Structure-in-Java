@@ -1,6 +1,6 @@
 package _3_Basic_Recursion;
 
-public class Basic {
+public class _1_Basic {
     public static void main(String[] args) {
         int count = 0;
         callFunction(count);

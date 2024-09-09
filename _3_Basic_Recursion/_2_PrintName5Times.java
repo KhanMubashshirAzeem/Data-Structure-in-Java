@@ -1,6 +1,6 @@
 package _3_Basic_Recursion;
 
-public class PrintName5Times {
+public class _2_PrintName5Times {
     public static void main(String[] args) {
         int i = 1, n = 4;
         callFunction(i, n);
