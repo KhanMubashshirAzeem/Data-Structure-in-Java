@@ -23,7 +23,7 @@ public class _6_SunOfN_Num {
         method(i - 1, sum + i);
     }
 
-    // Parameterised Recursion
+    // Functional recursion
     private static int method2(int n) {
         if (n == 0) {
             return 0;

@@ -2,7 +2,7 @@ package _1_Patterns;
 
 public class _16_Alpha_RampPattern {
     public static void main(String[] args) {
-        int n = 4;
+        int n = 3;
         printAlphaRamp(n);
     }
 
