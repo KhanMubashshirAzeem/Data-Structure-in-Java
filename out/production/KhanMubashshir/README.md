@@ -29,7 +29,7 @@
 4. Armstrong Number
 5. Print all divisors
 
-### _3_Basic_Recursion
+### _3_Recursion
 
     There is two types of Recursion
         1. Parameterized Recursion.
