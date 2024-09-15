@@ -1,8 +1,21 @@
 package _3_Recursion.Array_Recursion;
 
+import java.util.Scanner;
+
 public class ReverseArray {
     public static void main(String[] args) {
-        int[] arr = {5, 9, 8, 7, 3};
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter length of the array");
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+        // Take user elements for the array
+        System.out.println(
+                "Enter the elements of the array: ");
+        for (int i = 0; i < n; i++) {
+            if (sc.hasNextInt()) {
+                arr[i] = sc.nextInt();
+            }
+        }
         reverseArray(arr, 0, arr.length - 1);
         printArray(arr);
     }
