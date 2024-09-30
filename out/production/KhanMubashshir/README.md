@@ -90,7 +90,7 @@
 1. Binary Search Algorithm
 2. Find the First and Last Position of the Target.
 
-### Sorting
+### _6_Sorting
 
 ### LinkedList
 

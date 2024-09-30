@@ -1,4 +1,4 @@
-package Sorting;
+package _6_Sorting;
 
 public class CountingSort {
     public static void main(String[] args) {

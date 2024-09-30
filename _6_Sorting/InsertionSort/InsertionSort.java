@@ -1,4 +1,4 @@
-package Sorting;
+package _6_Sorting.InsertionSort;
 
 import java.util.Scanner;
 

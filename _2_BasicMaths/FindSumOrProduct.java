@@ -1,4 +1,4 @@
-package String;
+package _2_BasicMaths;
 
 import java.util.*;
 
