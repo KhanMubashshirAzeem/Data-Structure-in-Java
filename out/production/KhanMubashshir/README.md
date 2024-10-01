@@ -43,12 +43,21 @@
 6. Sum of Digits.
 
 
-### NQT_TCS
+### _4_NQT_TCS
 
 1. reverse number
 2. palindrome
 3. Armstrong Number
 
+### _5_Hashing
+1. 
+
+### Sorting
+1. Bubble
+2. Insertion
+3. Merge
+4. Quick
+5. Selection
 
 
 ### Object-Oriented Programming & System

@@ -1,4 +1,4 @@
-package _6_Sorting.InsertionSort;
+package _6_Sorting._3_InsertionSort;
 
 import java.util.Scanner;
 
@@ -17,6 +17,7 @@ public class InsertionSort {
 
         increasingSort(arr);
         decreasingSort(arr);
+        insertion_sort(arr, arr.length);
 
     }
 
@@ -66,6 +67,23 @@ public class InsertionSort {
             arr[prev + 1] = curr;
         }
         printArray(arr);
+    }
+
+    static void insertion_sort(int[] arr, int n) {  // Function to perform insertion sort on an array 'arr' of length 'n'
+        // Outer loop to iterate over the array from the first to the last element
+        for (int i = 0; i <= n - 1; i++) {
+            int j = i;  // 'j' is set to the current index 'i', and will be used for inner comparison and shifting
+            // Inner loop: compares and swaps elements in reverse direction
+            // This loop continues as long as 'j' is greater than 0 and the current element arr[j] is smaller than arr[j-1]
+            while (j > 0 && arr[j - 1] > arr[j]) {
+                // Swap the elements if the left element is greater than the right element
+                int temp = arr[j - 1];  // Store the left element in a temporary variable
+                arr[j - 1] = arr[j];    // Move the right element to the left position
+                arr[j] = temp;          // Move the stored left element to the right position
+                j--;  // Decrement 'j' to compare and potentially swap the next pair of elements on the left
+            }
+        }
+        printArray(arr);  // After sorting is done, print the array
     }
 
 

@@ -1,4 +1,4 @@
-package _6_Sorting.SelectionSort;
+package _6_Sorting._1_SelectionSort;
 
 import java.util.Scanner;
 

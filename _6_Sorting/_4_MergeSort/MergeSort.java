@@ -1,4 +1,4 @@
-package _6_Sorting.MergeSort;
+package _6_Sorting._4_MergeSort;
 
 public class MergeSort {
     public static void main(String[] args) {
