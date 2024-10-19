@@ -1,4 +1,4 @@
-package String;
+package _7_String;
 
 public class ReverseString {
     public static String reverseString(String str) {
