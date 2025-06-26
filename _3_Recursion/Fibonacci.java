@@ -9,11 +9,11 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-        for (int i = 0; i <= 50; i++) {
+        for (int i = 0; i <= 10; i++) {
             if (i <= 20) {
                 System.out.print("  " + fibbo(i));
             }
         }
-//        System.out.println(fibbo(10));
+        System.out.println("\n The Fibonacci of 10 is  "+fibbo(10));
     }
 }

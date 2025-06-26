@@ -2,123 +2,83 @@ package LinkedList.linkedLIst;
 
 public class BasicLinkedList {
 
+    // Function to insert a new node at the end of the linked list
     public static void insertAtEnd(Node head , int val){
-        Node temp = new Node(val);
-        Node t=head;
-        while(t.next != null){
+        Node temp = new Node(val); // Create a new node with given value
+        Node t = head;             // Start from the head node
+        while(t.next != null){     // Traverse to the last node
             t = t.next;
         }
-        t.next = temp;
+        t.next = temp;             // Link the last node to the new node
     }
 
-    // Printing list using recursion
+    // Function to display the linked list using recursion (forward order)
     public static void displayRec(Node head){
-        if (head==null)                     // Base case.
+        if (head == null)                     // Base case: stop when node is null
             return;
-        System.out.print(head.data+" ");    // initial print.
-        displayRec(head.next);              // Call to all element.
+        System.out.print(head.data + " ");    // Print current node's data
+        displayRec(head.next);                // Recurse to next node
     }
 
-
-    // Printing list in reverse order using recursion
+    // Function to display the linked list in reverse using recursion
     public static void displayRecRiv(Node head){
-        if (head==null)                     // Base case.
+        if (head == null)                     // Base case: stop when node is null
             return;
-        displayRecRiv(head.next);              // Call to all element.f
-            System.out.print(head.data+" ");    // initial print.
+        displayRecRiv(head.next);             // Recurse to next node first
+        System.out.print(head.data + " ");    // Then print current node (reverse order)
     }
 
-
-    public static void display(Node head)
-    {
+    // Function to display the linked list using a loop
+    public static void display(Node head){
         Node temp = head;
         System.out.print("Linked list elements are : ");
         while (temp != null){
-            System.out.print(temp.data+" ");
-            temp = temp.next;
+            System.out.print(temp.data + " "); // Print data of each node
+            temp = temp.next;                 // Move to next node
         }
     }
 
-
-
+    // Function to count the number of nodes in the list
     public static int length(Node head){
         int count = 0;
-        while (head!=null){
-            count++;
-            head = head.next;
+        while (head != null){
+            count++;             // Increment count for each node
+            head = head.next;    // Move to next node
         }
-        return count;
+        return count;            // Return total count
     }
 
+    // Inner class to represent a Node of the linked list
+    public static class Node {
+        int data;      // Value of the node
+        Node next;     // Reference to the next node
 
-    public static class Node
-    {
-        int data; // Value
-        Node next; // Address of next node
         Node(int data){
-            this.data = data;
+            this.data = data;  // Initialize the node with given data
+            this.next = null;
         }
     }
 
+    public static void main(String[] args) {
+        // Creating individual nodes
+        Node a = new Node(5);
+        Node b = new Node(3);
+        Node c = new Node(9);
+        Node d = new Node(8);
+        Node e = new Node(16);
+        Node f = new Node(23);
 
-    public static void main(String[] args)
-    {
-        Node a=new Node(5);
-        Node b=new Node(3);
-        Node c=new Node(9);
-        Node d=new Node(8);
-        Node e=new Node(16);
-        Node f=new Node(23);
+        // Connecting nodes to form the linked list: 5 -> 3 -> 9 -> 8 -> 16 -> 23
+        a.next = b;
+        b.next = c;
+        c.next = d;
+        d.next = e;
+        e.next = f;
 
-              // 5 3 9 8 16
-        a.next=b;  //5->3
-        b.next=c;  //5->3->9
-        c.next=d;  //5->3->9->8
-        d.next=e;  //5->3->9->8->16
-        e.next=f;
+        // Insert a new node with value 37 at the end
+        insertAtEnd(a, 37); // Final list: 5 -> 3 -> 9 -> 8 -> 16 -> 23 -> 37
 
-//                //Checking output
-//        System.out.println(a.next.data); //3
-//        System.out.println(a.data);  //5
-//        System.out.println(a.next.next.data);  // Will print value of "C" => 9
-
-
-//                // Displaying List using For-Loop (When we know the no of element are there in list)
-//        Node temp = a;
-////        System.out.println(temp.data); // 5
-//        System.out.print("Diplaying linked list using Loop : ");
-//        for (int i=0;i<5;i++){
-//            System.out.print(temp.data+" ");
-//            temp = temp.next;
-//        }
-
-
-//                // Display list Using While-Loop (When we don't know the number of element are there in list
-//          Node temp = a;
-//        System.out.print("Displaying list using while loop : ");
-//          while (temp!=null){
-//              System.out.print(temp.data+" ");
-//              temp = temp.next;
-//          }
-
-//                 // Display list using function
-//        display(a);  // Displaying list using while loop in function : 5 3 9 8 16
-//        System.out.println();
-//        display(c);  // Displaying list using while loop in function : 9 8 16
-
-//                 // Display list using recursion
-//        System.out.print("List using recursion : ");
-//        displayRec(a);
-
-//                  //Display list in reverse using recursion
-//        System.out.print("List in reverse order using recursion : ");
-//        displayRecRiv(a);
-
-                    //Printing length of List
-//        System.out.println(length(a));
-
-        insertAtEnd(a,37);
+        // Display the final list using display function
         display(a);
     }
-
 }

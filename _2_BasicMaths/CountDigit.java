@@ -3,7 +3,7 @@ package _2_BasicMaths;
 public class CountDigit {
     public static void main(String[] args) {
 
-        int num = 32, count = 0, lastDigit;
+        int num = 6467, count = 0;
 
         System.out.printf(num + " contains total ");
 
