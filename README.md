@@ -1,12 +1,6 @@
 # Data Structure Using Java
 
-## Solved Topics and Problems
-
-    I encourage all beginners to focus on learning basic math. 
-    It helps a lot with solving pattern problems and 
-    improves problem-solving skills.
-
-- One of the best platform to learn DSA -> [A to Z Strivers](https://takeuforward.org/)
+## Solved Problems
 
 ### _0_Basic Java
 
@@ -21,7 +15,6 @@
         eg : 894 % 10 = 4
     2.  num / 10 removes last digit
         eg : 894 / 10 = 89
-    If we learn this formula then we can solve the maths problems very easily.
 
 1. Count digit
 2. reverse number

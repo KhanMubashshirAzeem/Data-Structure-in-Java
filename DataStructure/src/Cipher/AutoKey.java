@@ -1,4 +1,4 @@
-package Cryptography.Cipher;
+package Cipher;
 
 // A JAVA program to illustrate
 // Autokey Cipher Technique

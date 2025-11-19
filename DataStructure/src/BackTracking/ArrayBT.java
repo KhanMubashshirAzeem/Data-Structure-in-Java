@@ -1,7 +1,5 @@
 package BackTracking;
 
-import Arrays.Array.Array;
-
 public class ArrayBT {
     public static void main(String[] args) {
         int arr[] = new int[5];
